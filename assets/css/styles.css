@@ -525,7 +525,7 @@ a {
     gap: 410px;
 }
 .cta-content .content {
-    flex: 1;
+    width: 36%;
 }
 .cta-content .title {
     color: #070707;
